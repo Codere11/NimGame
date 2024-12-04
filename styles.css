@@ -1,0 +1,42 @@
+#igra {
+    border: 3px solid black;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-left: 14%;
+    margin-right: 14%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background:lightblue;
+}
+
+#Naslov {
+    display:flex;
+    margin-top: 3%;
+}
+
+#Player-Identifier {
+    margin-bottom: 3%;
+}
+
+.Palica {
+    display:flex;
+    border:3px solid black;
+    width: 14px;
+    height: 140px;
+    margin-right: 22px;
+    cursor:pointer;
+    background: brown;
+}
+
+.Vrsta {
+    display:flex;
+    flex-direction: row;
+    margin-top: 1%;
+}
+
+#Konec-Poteze {
+    display:flex;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
